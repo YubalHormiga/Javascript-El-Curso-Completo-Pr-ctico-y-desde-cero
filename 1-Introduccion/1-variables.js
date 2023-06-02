@@ -49,9 +49,9 @@ pais = "España";
 console.log(pais);
 
 // 📌 Las variables de tipo const no las podemos reasignar
-const numero = 123;
-numero = 456;
-console.log(numero);
+// const numero = 123;
+// numero = 456;
+// console.log(numero);
 
 // 📌 Undefined
 // Nos retorna undefined cuando una variable no tiene un valor definido:
@@ -76,4 +76,5 @@ console.log(nombreCompleto);
 let variable = "Texto";
 variable = 7;
 console.log(variable);
+
 
