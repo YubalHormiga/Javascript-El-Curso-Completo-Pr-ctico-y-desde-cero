@@ -78,3 +78,8 @@ variable = 7;
 console.log(variable);
 
 
+function todasTerminanConA(palabras) {
+return palabras.every( palabra => palabra.endsWith('a'))
+}
+
+console.log( todasTerminanConA(['pedra', 'juana']))
